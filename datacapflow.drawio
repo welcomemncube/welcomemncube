@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T19:15:51.494Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.2" etag="le_LjKDhpNQEvmwqWFNX" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T19:17:51.400Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mHHQ1tbSYhTB-LqUcol-" version="21.6.2" type="github">
   <diagram name="Page-1" id="zf5AZORcXDYjho-Rdyb4">
-    <mxGraphModel>
+    <mxGraphModel dx="1372" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4z83yg8GvwpwiIHcIQgr-1" value="Datacap Studio&lt;br&gt;(Create App)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4z83yg8GvwpwiIHcIQgr-2" value="ICN(Datacap Navigator)&lt;br&gt;*Configure Application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4z83yg8GvwpwiIHcIQgr-3" value="ICN(Datacap Navigator)&lt;br&gt;*Configure Application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
